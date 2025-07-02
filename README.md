@@ -4,7 +4,7 @@
 # WAFA ZEHRA
 ![Data Scientist | Web Dev Enthusiast | Python Developer](https://img.shields.io/badge/Data_Scientist|Web_Dev_Enthusiast|_Python_Developer-%F0%9F%A4%8E-FFD700?style=for-the-badge&color=DAA520)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Half+analyst%2C+half+artist%2C+fully+curious.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000=true&vCenter=true&width=435&lines=Half+analyst%2C+half+artist%2C+fully+curious.)](https://git.io/typing-svg)
 
 [📧 Email](mailto:wafazzaidi104@gmail.com) | [💻 GitHub](https://github.com/Wafa_Zehra) | [🔗 LinkedIn](https://www.linkedin.com/in/wafaa-zehra)
 
