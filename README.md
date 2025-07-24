@@ -1,5 +1,5 @@
 <div align="center">
-<b>WAFA ZEHRA</b>
+<h1><b>WAFA ZEHRA</b></h1>
 
 ![Data Scientist | Web Dev Enthusiast | Python Developer](https://img.shields.io/badge/Data_Scientist%20%7C%20Web_Dev_Enthusiast%20%7C%20Python_Developer-%F0%9F%A4%8E-FFD700?style=for-the-badge&color=DAA520)
 
